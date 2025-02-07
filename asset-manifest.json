@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/aw-app/static/css/main.537109b5.css",
-    "main.js": "/aw-app/static/js/main.52676842.js",
+    "main.js": "/aw-app/static/js/main.d30c8cba.js",
     "index.html": "/aw-app/index.html",
     "main.537109b5.css.map": "/aw-app/static/css/main.537109b5.css.map",
-    "main.52676842.js.map": "/aw-app/static/js/main.52676842.js.map"
+    "main.d30c8cba.js.map": "/aw-app/static/js/main.d30c8cba.js.map"
   },
   "entrypoints": [
     "static/css/main.537109b5.css",
-    "static/js/main.52676842.js"
+    "static/js/main.d30c8cba.js"
   ]
 }
